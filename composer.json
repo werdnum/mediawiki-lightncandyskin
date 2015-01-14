@@ -1,0 +1,15 @@
+{
+    "name": "werdnum/mediawiki-lightncandy-skin",
+    "description": "Simple library for creating LightnCandy based skins for MediaWiki.",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Andrew Garrett",
+            "email": "agarrett@wikimedia.org"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "classmap" : ["AbstractLightNCandyTemplate.php"]
+    }
+}

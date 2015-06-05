@@ -11,4 +11,4 @@ To create a LightNCandy-based skin, you do the following:
    to the class name of your template class.
 3. Register your skin with the factory.
 
-For a full example, see [LivingStyleGuideSkin](https://github.com/werdnum/LivingStyleGuideSkin).
+For a full example, see the [Blueprint skin](https://github.com/wikimedia/mediawiki-skins-Blueprint).
